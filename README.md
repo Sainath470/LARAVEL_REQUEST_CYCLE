@@ -4,7 +4,7 @@ Let’s see an example for a request
 
 Step 1
 
-The user input http://xyz.com in the browser and hits ‘enter’.
+The user input http:// xyz.com in the browser and hits ‘enter’.
 
 Step 2
 
